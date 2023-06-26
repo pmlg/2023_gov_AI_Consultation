@@ -1,0 +1,37 @@
+AI accountability and responsibility
+Perth Machine Learning Group June 14, 2023
+
+
+When we think about some future artificial general intelligence, something that learns from its own endeavors as opposed to being programmed. What do mean when we ask it to be responsible and accountable?
+Reaching for the dictionary we see that "Responsibility: A responsible person is someone that is accountable for their actions". hmmm.. So what do we mean by accountable? The same dictionary gives us "Accountability: an accountable person is responsible for their actions" .... ok.... this feels somewhat unsatisfying so let’s dig deeper.
+
+Responsibility:
+·        Being accountable, (grrrr)
+·        Reliable, and fulfilling one's duties and obligations.
+·        Recognizing the consequences of one's actions.
+·        Acting in a way that considers the well-being of others and the wider good.
+·        A duty to deal with or take care of somebody/something, so that you may be blamed if something goes wrong.
+
+Accountability:
+·        Accepting the consequences and being answerable for one's actions and decisions. Being able to explain and take ownership for their actions. This can involve acknowledging mistakes, rectifying errors, and learning from failures.
+
+“Reliable, and fulfilling one's duties and obligations” are interesting as very human failings. However, what stands out from the above is blame, what do we expect from blame?
+·        Identification: for who is responsible and to understand why a event occurred
+·        A feedback mechanism: to help learn from one’s mistakes.
+·        Justice and fairness: to provide closure apologies and enable restitution.
+
+Maybe we want to link blame to punishment? With a self-learning system, we may be left with the uncomfortable position of having no entity to blame but the system, which we can only ask to do better next time. To address the issue of blame in a self taught, self learning systems, we need the system to be recognized as an entity in it's own right in the same way a company is. While this may feel unsatisfactory, recent history of human global blunders suggest we really don't have answer to this. The fact that events like the GFC left the world damaged but no organization held to account don't inspire confidence in our ability to assign blame in order to punish.
+
+So deftly skirting around the vexing rabbit hole of blame in order punish. Let's bring together, the attributes we are looking for in responsible accountable AI:
+·        Recognizing that your actions may have unintended consequences,
+·        Have sufficient context to recognize issues and be able to address them without further harm.
+·        Have sufficiently wide context to perceive others needs and the greater good.
+·        Being able to recognize, learn from and correct one’s own mistakes.
+·        Ability to provide explanations for one’s actions, provide closure and restitution.
+
+The elephant is the room here is context. When human systems and organizations fail it is often an issue of insufficient context or wilful contextual blindness. We can think of an organization so focused on its domain that it fails to see the negative societal consequences of its actions (insert you favourite human example here).
+In contrast with Artificial general intelligence, we are talking of vast domain knowledge and ability to perceive huge contexts far beyond human capability combined with ability to learn quickly from mistakes. Is this sufficient calm our concerns?
+
+A common risk levelled at "automated systems" is the out-of-control optimizer, typified by some system, or organization, running amok trying to satisfy some simple goal, like profit. While this is true of simple systems the issue with these systems is almost always lack of sufficient context to be able to perceive wider issues, combined with an inability or unwillingness to correct the errant behaviours. Building AGI which can handle wide contexts is the key to avoiding this trap and other Moloch like behaviours.
+
+In summary looking at responsibility and accountability from the perspective of some future AGI, helps us understand some of the important elements we need to be able use these systems. The abilities to be explain, learn from mistakes, and most importantly perceive and use wide contexts are essential to being safe and accepted.
