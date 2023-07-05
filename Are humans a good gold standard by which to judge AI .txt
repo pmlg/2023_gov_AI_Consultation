@@ -1,0 +1,34 @@
+Are humans a good gold standard by which to judge AI.
+
+Humanity seems to place itself upon a pillar when considering its place in the world. But the reality of it is that from individuals though to our largest organizations we fail on so many of the grounds we hold important to us and to which we wish AI to adhere to.
+
+Yes we can eventually correct our mistakes, but often just end up repeating the same errors.
+
+Our limited window of processable information about the world, our contextual resolution, constantly lets us down. Often unable to see issues beyond narrow- shallow goals we seem doomed to cause constant of off-target harms.
+
+With AI systems, as the scope of the system grows, so does its risk and so the more checks, balances and accountability we put in place.
+
+AI systems in governance have huge scope for large scale harm, because they manage large systems. Hence we recognize the need for particularly careful oversight, deep transparency, deep auditability and accountability amongst many other metrics.
+
+Yet many parts of human governance fail to meet this standard. If we think of humans and human organizations as systems, how well would they score on the usual AI metrics?
+
+Accountability:
+Controllability: 
+Explainability:
+Interpretability:
+Reliability: 
+Resilience:
+Robustness:
+Safety:
+Transparency:
+Privacy:
+Fairness:
+Ethical Decision-Making: 
+Data Bias: 
+Adversarial Attacks:
+Environmental Impact:
+Contextual resolution:
+Optimisation risk: 
+Alignment:
+
+When thinking of future AI systems which can capture larger contexts and recognize wider harms, why would we accept the lesser standards of current human governance.
