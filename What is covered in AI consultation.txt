@@ -1,0 +1,14 @@
+What is covered in AI consultation
+
+What is covered:
+	AI governance
+	Dual use
+	Government misinformation filtering
+
+What is not covered:
+	Labor market issues
+	Impact on skills ? (lack of or loss of?)
+	National security? (non military?)
+	Intellectual property
+	Military specific uses
+
