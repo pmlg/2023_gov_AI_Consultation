@@ -1,0 +1,72 @@
+Systems engineering 
+
+Systems engineering is the dripline of how to build complex systems. It is roots are in the defense and space industries and provides guidance on best engineering and organisation practices in building complex systems with maximal safety.
+
+It took a long time for this field to accept that software was an acceptable way to implement a control system. However due to the complexity of control systems, like the Automatic braking system on your car (ABS) it was found that software was the only way that these systems could be practically implemented. 
+
+However in order to implement these systems, safety engineering, verification and validation needed to be rigorous with well defined responsibility resting in the chief engineer. The result, in the case of ABS, was a significant increase in road safety, but only in normal road conditions, in snow and loose gravel the stopping distance could be up to 20% greater than normal braking, but since this is the minority of use cases, the overall result was positive. This is instructive as this is a critical safety system, which makes an intervention on your behalf, in an emergency, it is robustly and rigorously engineered and fully tested and which on average significantly outperforms humans, but in some limited situations can be worse than not having the system. 
+
+This trade off has been accepted in the past, possibly because the overall benefit is greater than the increased risk to a few extreme cases, and in areas where this is a known issue drivers may have the option to manually disable ABS. However the take away is that even well engineered safety systems that are designed to make decisions and interventions on your behalf are not 100% safe and may, in rare cases, be worse.
+
+
+Historically it has been common to rank systems in terms of risk in a similar way to the list below
+
+Hardware systems reliable - no undefined states
+Hardware systems tested - no discovered undefined states
+Software systems that are explainable and have state space which is completely defined
+Software systems which are auditable but may have undefined states
+Software systems which are explainable but may have undefined states
+Software systems which are explainable and probably have undefined states
+Software systems which are not rigorously explainable but can provide an explanation
+Software systems which are not rigorously explainable
+
+Systems limitations and engineering responsibility is well understood in systems engineering. 
+Since the 90's there has been a strong drive to only allow have algorithmically stable or rigorously explainable systems. 
+
+This legacy persists today, and System Engineering is still evolving for handling systems which may have undefined states.
+However systems with undefined states are not necessarily less safe than those with defined states.
+The limitation being availability of contextual information that the system can use to correct its behavior.
+
+The areas of concern for all these systems have been well understood for several decades, these are not new issues:
+
+- Accountability: 
+- Controllability: 
+- Explainability: 
+- Interpretability:
+- Reliability:
+- Resilience: 
+- Robustness: 
+- Safety: 
+- Transparency: 
+- Privacy:
+- Fairness:
+- Bias: 
+- Optimisation risk:
+- Ethical Decision-Making: 
+
+These issues vary in importance dramatically depending on which specific technology one is looking at particularly with "AI/ML" which includes a vast range of technologies and methods. This makes building general standards around this field more challenging.
+
+Over the last decade we have seen increasing success of systems which are not easily rigorously explainable in the form of deep machine learning. From these early seeds we have added begun to gain further knowledge around more nuanced issues like:
+
+- Adversarial Attacks:
+- Environmental Impact:
+- Contextual resolution:
+- Alignment:
+
+Once again these are not new issues and are not confined to deep learning. Their increased prominence though is indicative of the widespread growth in monetarizing data and data driven decision making.
+
+In building new systems with "AI" the systems engineering standards do need to adapt, however its is important not to get caught in dogma and conflate issues from different "AI/ML" technologies.
+
+Industries which undertake critical engineering already have access to the information required to begin engineering with "AI/ML", they already carry the risks associated with these projects and have the information on how to structure their organisation responsibly. As discussed above even well accepted critical safety systems are not 100% safe. 
+
+
+---
+# References
+
+https://www.iso.org/standard/63711.html
+https://www.iso.org/standard/63712.html
+https://www.dote.osd.mil/Portals/97/docs/TEMPGuide/DefenseAcquisitionGuidebook.pdf
+https://www.nasa.gov/feature/release-of-revision-to-the-nasa-systems-engineering-handbook-sp-2016-6105-rev-2
+https://sebokwiki.org/wiki/Verification_and_Validation_of_Systems_in_Which_AI_is_a_Key_Element
+https://www.incose.org/products-and-publications/se-handbook
+https://arxiv.org/ftp/arxiv/papers/1908/1908.11791.pdf
