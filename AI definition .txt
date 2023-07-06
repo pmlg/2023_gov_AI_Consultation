@@ -1,0 +1,1 @@
+AI refers to an engineering system that learns a mapping between between a set of input domain/s (data) and a set output domains. A common use case is to generate predictive outputs, such as content, forecasts, recommendations or decisions and is usually given a human defined objectives or parameters without explicit programming. AI systems can use varying levels of automation
