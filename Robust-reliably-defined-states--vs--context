@@ -1,0 +1,12 @@
+Robust-reliably-defined-states vs context
+
+
+From a safety perspective for complex systems we may look at the degree to which our system manifests  "Robust-reliably-defined-states" and this has widespread use in safety cases and risk based safety. However this metric only tell one part of the story.
+
+Contextual resolution is is also important, i.e. how much processable information the system can use to inform a timely decision. 
+
+A highly robust explainable system with low contextual resolution may be worse than a system that ranks very low in "Robust-reliable-defined-states" but which has a sufficiently large contextual resolution. 
+
+This is why we use humans in the loop, as generally they have better contextual resolution than more limited systems, despite the fact they would actually score quite low on "Robust-reliably-defined-states".
+
+However humans themselves, although used as the gold standard for contextual resolution,  are only mediocre in this metric. Many system failures are due to insufficient human contextual resolution or inability of a human to process the contextual information.
