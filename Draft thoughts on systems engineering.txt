@@ -11,8 +11,8 @@ This trade off has been accepted in the past, possibly because the overall benef
 
 Historically it has been common to rank systems in terms of risk in a similar way to the list below
 
-Hardware systems reliable - no undefined states
-Hardware systems tested - no discovered undefined states
+physical systems reliable - no undefined states
+physical systems tested - no discovered undefined states
 Software systems that are explainable and have state space which is completely defined
 Software systems which are auditable but may have undefined states
 Software systems which are explainable but may have undefined states
