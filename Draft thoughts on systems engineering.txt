@@ -9,7 +9,8 @@ However in order to implement these systems, safety engineering, verification an
 This trade off has been accepted in the past, possibly because the overall benefit is greater than the increased risk to a few extreme cases, and in areas where this is a known issue drivers may have the option to manually disable ABS. However the take away is that even well engineered safety systems that are designed to make decisions and interventions on your behalf are not 100% safe and may, in rare cases, be worse.
 
 
-Historically it has been common to rank systems in terms of risk in a similar way to the list below
+Historically it has been common to rank systems in terms the degree in which they mainifest "Robust-reliably-defined-states".
+Using this idea people have ranked systems from low to high risk in a way similar to the list below:
 
 physical systems reliable - no undefined states
 physical systems tested - no discovered undefined states
