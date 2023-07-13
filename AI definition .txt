@@ -1,1 +1,19 @@
-AI refers to an engineering system that learns a mapping between between a set of input domain/s (data) and a set output domains. A common use case is to generate predictive outputs, such as content, forecasts, recommendations or decisions and is usually given a human defined objectives or parameters without explicit programming. AI systems can use varying levels of automation
+AI refers to an engineering system that learns a mapping between between a set of input domain/s (data) and a set output domains. A common use case is to generate predictive outputs, such as content, forecasts, recommendations or decisions and is usually given a human defined objectives or parameters without explicit programming. AI systems can use varying levels of automation and can have varying degrees of autonomy.
+
+# Foundation models
+
+A foundation model is a model so large that it can only effectively be trained by those with the deepest pockets and access to the the most advanced technology. Once trained it makes no economic sense for others to replicate the training, but rather just use the existing model.
+
+This notion is based on a range of assumptions, mostly bad. 
+Some examples:
+It is extrapolating into the future based on:
+ - Usage of today technology, specifically hardware like GPUs.
+ - The idea that we need software in the future
+ - The idea of a model as a frozen graph (train once vs continual learning)
+ - Continued scaling will always produce better results
+ 
+There are strong reasons to believe that none of these will hold into the future
+ 
+The concept, definition and framing of the conversation around foundation models is a licensing construct, deliberately posed to lead the conversation towards this end. It has little to do with the potential technological arc we are on or where the technology can go.
+
+Licensing infers centralization, control and limitation of access. This disempowers the many and empowers the few, as more skills are lost to a centralized systems. Loss of control of such a centralized system could be catastrophic, as there would be no checks and balances in the wider world, and to little knowledge of how to make the technologies on which we would rely.  Decentralization and heterogeneity of solutions, with the transparency of open source is the only way to make systems robust.
