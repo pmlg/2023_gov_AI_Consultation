@@ -1,6 +1,6 @@
 Systems engineering 
 
-Systems engineering is the dripline of how to build complex systems. It is roots are in the defense and space industries and provides guidance on best engineering and organisation practices in building complex systems with maximal safety.
+Systems engineering is the discipline of how to build complex systems. Its roots are in the defense and space industries and provides guidance on best engineering and organisation practices in building complex systems with maximal safety.
 
 It took a long time for this field to accept that software was an acceptable way to implement a control system. However due to the complexity of control systems, like the Automatic braking system on your car (ABS) it was found that software was the only way that these systems could be practically implemented. 
 
